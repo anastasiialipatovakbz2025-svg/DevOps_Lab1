@@ -1,3 +1,4 @@
+'''mermaid
 graph TD
     A["📦 DevOps_Lab1<br/>Python Package v0.1.0"] --> B["🗂️ Структура проекту"]
     
@@ -27,3 +28,4 @@ graph TD
     style G fill:#7ED321,color:#fff
     style E fill:#F5A623,color:#fff
     style F2 fill:#BD10E0,color:#fff
+'''
