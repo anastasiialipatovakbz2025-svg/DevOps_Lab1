@@ -1,4 +1,4 @@
-from devops_lab1.lib import add, subtract, multiply
+from devops_lab1.lib import add, subtract, multiply, divide
 
 
 def main():
@@ -10,6 +10,7 @@ def main():
     print("Додавання:", add(a, b))
     print("Віднімання:", subtract(a, b))
     print("Множення:", multiply(a, b))
+    print("Ділення:", divide(a, b))
 
 
 if __name__ == "__main__":
